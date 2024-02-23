@@ -32,3 +32,22 @@ manage Environments
 <hr>
 
 ## Capturas de tela
+
+<div style="width:90%;display: inline-block;" align="center">
+    <img alt="Exemplo Autenticação" src="./prints/autenticacaoEx.png">
+    <p>Exemplo autenticação e retorno do Token</p>
+</div>
+
+<br>
+
+<div style="width:90%;display: inline-block;" align="center">
+    <img alt="Exemplo Pilares" src="./prints/exemploListarPilares.png">
+    <p>Exemplo retorno das informações GET</p>
+</div>
+
+<br>
+
+<div style="width:90%;display: inline-block;" align="center">
+    <img alt="Exemplo final" src="./prints/envioRespostaFinal.png">
+    <p>Exemplo Resposta final</p>
+</div>
